@@ -1,5 +1,13 @@
 # React + TypeScript + Vite
+--------
+## Установка
 
+1. Склонировать - 'git clone https://github.com/olgaAsmith/MindBoxTodo.git'
+2. Установка - 'npm install' или 'yarn install'
+
+
+#### Сcылка на проект https://olgaasmith.github.io/MindBoxTodo/
+--------
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
